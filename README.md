@@ -1,3 +1,4 @@
+![Time Over](https://cdn.modrinth.com/data/cached_images/52a32d10546f93570756ec03783f8a7dad332745.png)
 # Time Trap
 Time Trap adds a survival gamemode where you have limited time to play that can be increased using minerals, killing other players or trading with them.
 
